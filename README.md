@@ -1,5 +1,5 @@
 # redshift
-Redshift Config
-place in ~/.config
-probably place in startup
+Redshift Config \
+place in ~/.config \
+
 No more eye bleeding
